@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Button bt4;
         Button bt5;
+        Button bt7;
 
     }
 }
